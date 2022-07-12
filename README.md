@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4lbaLupus9
-- 👀 I’m interested in computer forensic, sec and all what is tech
-- 🌱 I’m currently learning networks
-- 📫 How to reach me: yvesbobson7@gmail.com
+- 👀 I’m interested in development, computer forensic, sec and lot about tech globally
+- 🌱 I’m currently a student in Information Systems and Netwoks.
+- 📫 Reach me at: yvesbobson9@gmail.com
 
 <!---
 4lbaLupus9/4lbaLupus9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
